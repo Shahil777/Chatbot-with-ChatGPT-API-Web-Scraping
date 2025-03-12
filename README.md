@@ -23,10 +23,6 @@ Chatbot API: OpenAI ChatGPT API
 
 Installation & Setup
 
-1. Clone the Repository
-
-git clone https://github.com/your-repo-name/chatbot-project.git
-cd chatbot-project
 
 2. Install Dependencies
 
